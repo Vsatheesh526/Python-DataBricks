@@ -1,5 +1,7 @@
 # Databricks Free Edition Workspace Notes
 
+- https://bricksnotes.com/lessons/workspace-essentials
+
 ## Lesson 0.5 - Getting Started
 
 ### Objective
